@@ -8,6 +8,4 @@ Note: This is a "raw" resource (not adjusted or proofed) meant to help people cr
 
 All Brushes in this Package are created by me. **You can use this resource for whatever you want without any restrictions.**
 
-This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
-
-**No Attribution required!**
+[Gimp Brushcollection](https://github.com/vascoalexander/gimp-brush-collection) by [Vasco Alexander Basque](https://www.vascobasque.com/) is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1) 
